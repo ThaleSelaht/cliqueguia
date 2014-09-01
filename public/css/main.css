@@ -70,7 +70,7 @@ body{
 	float:right;
 	color:white!important;
 	height: 17px;
-	padding: 15px 10px 0 35px;
+	padding: 15px 10px 0 175px;
 	font-size: 14px;
 	margin-left: 0!important;
 }
@@ -121,15 +121,21 @@ border-color: #FFF!important;
 	margin: auto;
 }
 
-@media (max-width: 992px){
+@media (max-width: 1200px){
 	.navbar-brand{
-		padding: 15px 10px 0 140px;
+		padding-left:40px;
 	}
 
 }
-@media (max-width: 768px) {
+@media (max-width: 992px) {
 	.navbar-brand{
-		padding: 15px 10px 0 0;
+		padding-left: 145px;
 	}
 	
+}
+
+@media (max-width: 768px) {
+	.navbar-brand{
+		padding-left: 0px;
+	}
 }
