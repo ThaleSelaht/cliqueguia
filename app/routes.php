@@ -20,3 +20,9 @@ Route::get('/teste', function()
 {
 	return View::make('teste');
 });
+
+Route::get('/anunciante', function()
+{
+	return View::make('anunciante');
+});
+

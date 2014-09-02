@@ -1,6 +1,6 @@
-<!-- <div class="container">
+<div class="container-fluid nav-bg">
 
-<nav class="nav wrap row"> -->
+<!-- <nav class="nav wrap row">  -->
 	
 
 	<div class="container">
@@ -69,7 +69,7 @@
 	      </div><!-- /.container -->
 	    </div><!-- /.navbar -->
 
-		 {{ Form::open() }}
+		{{ Form::open() }}
 		<div class="input-group">
 				{{ Form::input('search', 'q', null, ['placeholder' => 'Busca...', 'class'=>'form-control']) }}
 			<div class="input-group-btn">
@@ -94,6 +94,6 @@
     </div>-->
 
 	
-<!-- </nav>
+ <!-- </nav> -->
 
-</div> -->
+</div> 
