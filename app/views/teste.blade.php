@@ -51,7 +51,7 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-6 col-lg-4">
 				<div class="bg-testevideos">
-					<a href=""><img class="img-responsive" src="https://i.vimeocdn.com/video/487532323_960.jpg" alt=""></a>
+					<a href=""><img class="img-responsive img-thumbnail" src="https://i.vimeocdn.com/video/487532323_960.jpg" alt=""></a>
 					<div class="h-nomeAnunc">
 						Lorem Ipsum dolor sit amet
 					</div>
@@ -62,7 +62,7 @@
 			<div class="col-xs-12 col-sm-6 col-lg-4">
 				<div class="bg-testevideos">
 					
-					<a href=""><img class="img-responsive" src="https://i.vimeocdn.com/video/486051541_960.jpg" alt=""></a> 
+					<a href=""><img class="img-responsive img-thumbnail" src="https://i.vimeocdn.com/video/486051541_960.jpg" alt=""></a> 
 					<div class="h-nomeAnunc">
 						Lorem Ipsum dolor sit amet
 					</div>
@@ -72,7 +72,7 @@
 			</div>
 			<div class="col-xs-12 col-sm-6 col-lg-4">
 				<div class="bg-testevideos">
-					<a href=""><img class="img-responsive" src="https://i.vimeocdn.com/video/487532323_960.jpg" alt=""></a> 
+					<a href=""><img class="img-responsive img-thumbnail" src="https://i.vimeocdn.com/video/487532323_960.jpg" alt=""></a> 
 					<div class="h-nomeAnunc">
 						Lorem Ipsum dolor sit amet
 					</div>
@@ -82,7 +82,7 @@
 			</div>
 			<div class="col-xs-12 col-sm-6 col-lg-4">
 				<div class="bg-testevideos">
-					<a href=""><img class="img-responsive" src="https://i.vimeocdn.com/video/486051541_960.jpg" alt=""></a> 
+					<a href=""><img class="img-responsive img-thumbnail" src="https://i.vimeocdn.com/video/486051541_960.jpg" alt=""></a> 
 					<div class="h-nomeAnunc">
 						Lorem Ipsum dolor sit amet
 					</div>
@@ -92,7 +92,7 @@
 			</div>
 			<div class="col-xs-12 col-sm-6 col-lg-4">
 				<div class="bg-testevideos">
-					<a href=""><img class="img-responsive" src="https://i.vimeocdn.com/video/487532323_960.jpg" alt=""></a> 
+					<a href=""><img class="img-responsive img-thumbnail" src="https://i.vimeocdn.com/video/487532323_960.jpg" alt=""></a> 
 					<div class="h-nomeAnunc">
 						Lorem Ipsum dolor sit amet
 					</div>
@@ -102,7 +102,7 @@
 			</div>
 			<div class="col-xs-12 col-sm-6 col-lg-4">
 				<div class="bg-testevideos">
-					<a href=""><img class="img-responsive" src="https://i.vimeocdn.com/video/486051541_960.jpg" alt=""></a> 
+					<a href=""><img class="img-responsive img-thumbnail" src="https://i.vimeocdn.com/video/486051541_960.jpg" alt=""></a> 
 					<div class="h-nomeAnunc">
 						Lorem Ipsum dolor sit amet
 					</div>
@@ -112,7 +112,7 @@
 			</div>
 			<div class="col-xs-12 col-sm-6 col-lg-4">
 				<div class="bg-testevideos">
-					<a href=""><img class="img-responsive" src="https://i.vimeocdn.com/video/487532323_960.jpg" alt=""></a> 
+					<a href=""><img class="img-responsive img-thumbnail" src="https://i.vimeocdn.com/video/487532323_960.jpg" alt=""></a> 
 					<div class="h-nomeAnunc">
 						Lorem Ipsum dolor sit amet
 					</div>
