@@ -11,10 +11,17 @@
 				<!-- <iframe src="//player.vimeo.com/video/103728196" width="100%" height="312" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 				<ul class="bxslider">
 				  <li>
-				    <iframe src="http://player.vimeo.com/video/17914974" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+				   <iframe src="//player.vimeo.com/video/105299352" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 				  </li>
 				  <li>
-				    <iframe src="//player.vimeo.com/video/90687696" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+				    <iframe src="//player.vimeo.com/video/105299908" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+				  </li>
+
+				  <li>
+				    <iframe src="//player.vimeo.com/video/105299116" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				  </li>
+				  <li>
+				    <iframe src="//player.vimeo.com/video/105300153" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 				  </li>
 				  
 				</ul>

@@ -10,7 +10,7 @@
 								<li><a href="#">HOME</a></li>
 								<li><a href="#">QUEM SOMOS</a></li>
 								<li><a href="#">DEPOIMENTOS</a></li>
-								<li><a href="#">FALE CONOSCO</a></li>
+								<li class="nav-footer-lastitem"><a href="#">FALE CONOSCO</a></li>
 							</ul>
 						
 					</div>

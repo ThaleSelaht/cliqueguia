@@ -5,6 +5,7 @@ body{
 	font-family: "Exo Demi Bold","Helvetica Neue",Helvetica,Arial,sans-serif;
 	letter-spacing: 0px;
 	background: #EEEEEE;
+	overflow-x: hidden; 
 }
 
 
@@ -217,8 +218,31 @@ border-color: #FFF!important;
 	
 	.nav-footer{
 		display: block;
-		text-align: center;
 		list-style: none;
+		padding-left: 0;
+		text-align: center;
+	}
+
+	.nav-footer li{
+		
+	}
+	.nav-footer a{
+		margin-bottom: 4px;
+		display: inline-block;
+		width: 80%;
+		background: #C56200;
+		color: #FFF;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+		border-radius: 4px;
+		padding: 4px 0 4px 10px;
+	}
+	.nav-footer a:hover{
+		color: #F7941E;
+	}
+
+	.nav-footer-lastitem{
+		padding-left: 0px;
 	}
 }
 
@@ -247,6 +271,8 @@ border-color: #FFF!important;
 	margin: 0 10px;
 	display: list-item;
 	}
-
+	.nav-footer-lastitem{
+		padding-left: 0px;
+	}
 }
 

@@ -13,7 +13,9 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	$categoria = Idioma::traduzCategoria(1);
+	
+	return $categoria;
 });
 
 Route::get('/teste', function()
