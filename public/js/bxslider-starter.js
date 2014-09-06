@@ -1,7 +1,6 @@
 $(document).ready(function(){
 	$('.bxslider').bxSlider({
-	  auto:true,		
-	  video: true,
-	  useCSS: false
+	  auto:false,		
+	  video: true
 	});
 });
