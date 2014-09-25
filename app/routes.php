@@ -13,7 +13,15 @@
 
 Route::get('/', function()
 {
-	$categoria = Idioma::traduzCategoria(1);
+	/*Categoria::find(1)->traducoes()
+					  ->where("traducao_categoria.idioma_id", "=", "2")
+					  ->with('idioma')
+					  ->get();*/
+	$categoria = 
+	Categoria::find(1)->traducoes()
+					  ->where("idioma_id", "=", "1")
+					  ->with('idioma')
+					  ->get();
 	
 	return $categoria;
 });
