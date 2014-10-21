@@ -194,7 +194,7 @@ border-color: #FFF!important;
 	margin-top: 22px;
 }
 .nav-footer li{
-	margin: 0 10px;
+	margin: 0;
 	display: inline;
 }
 .nav-footer a{
@@ -223,8 +223,8 @@ border-color: #FFF!important;
 		text-align: center;
 	}
 
-	.nav-footer li{
-		
+	.nav-footer li:nth-child(4){
+		/* padding-left: 10px; */
 	}
 	.nav-footer a{
 		margin-bottom: 4px;
@@ -241,9 +241,9 @@ border-color: #FFF!important;
 		color: #F7941E;
 	}
 
-	.nav-footer-lastitem{
-		padding-left: 0px;
-	}
+	/* .nav-footer-lastitem{
+		padding-left: 10px;
+	} */
 }
 
 /***** Tablets *****/
